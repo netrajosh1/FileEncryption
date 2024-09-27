@@ -49,7 +49,7 @@ To run the program, use the following command:
 ```
 
 ## Build and Compilation
-The project uses a simple Makefile to manage compilation.
+The project uses a simple Makefile to manage compilation (view: Makefile file in repository).
 
 Steps to Build:
 - Ensure you have a C compiler (like gcc) installed.
